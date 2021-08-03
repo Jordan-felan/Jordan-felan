@@ -18,3 +18,5 @@ Jordan Felan Here!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-felan&show_icons=true&theme=radical)
 ](https://github.com/Jordan-felan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-felan&layout=compact)](https://github.com/Jordan-felan/github-readme-stats)
