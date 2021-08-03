@@ -16,4 +16,5 @@ Jordan Felan Here!
 - 👀 i am interested in Video games, Golf, and cooking!
 - ⚡ Fun fact: What got me into coding was actually robotic programming!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-felan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
