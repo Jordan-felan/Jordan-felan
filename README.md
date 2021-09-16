@@ -15,8 +15,9 @@ Jordan Felan Here!
 - 😄 Pronouns: He/him...
 - 👀 i am interested in Video games, Golf, and cooking!
 - ⚡ Fun fact: What got me into coding was actually robotic programming!
+- ALSO accidently pushed python files files that should of been ignored and now my github most used languages stats are messed up!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-felan&show_icons=true&theme=radical)
 ](https://github.com/Jordan-felan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-felan&layout=compact)](https://github.com/Jordan-felan/github-readme-stats)
+
