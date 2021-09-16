@@ -21,3 +21,4 @@ Jordan Felan Here!
 ](https://github.com/Jordan-felan/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-felan&layout=compact)](https://github.com/Jordan-felan/github-readme-stats)
